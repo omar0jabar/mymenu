@@ -1,0 +1,18 @@
+{
+  "__schema": {
+    "types": [
+      {
+        "kind": "UNION",
+        "name": "ArticleContentDynamicZone",
+        "possibleTypes": [
+          {
+            "name": "ComponentBlogMediaContent"
+          },
+          {
+            "name": "ComponentBlog3Blog"
+          }
+        ]
+      }
+    ]
+  }
+}
